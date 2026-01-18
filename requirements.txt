@@ -2,3 +2,6 @@ langchain
 langchain-groq
 ipykernel
 langchain-openai
+deepagents
+tavily-python
+python-dotenv
